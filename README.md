@@ -1,1 +1,2 @@
-# Huffman-master
+# CBHuffman
+CB Huffman
